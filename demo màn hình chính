@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+    <title> demo-màn hình chính</title>
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="mew.css">
+        <div class="box">
+            <a href="http://127.0.0.1:5500/mew.html"><img id="logo" src="logo.png"></a>
+            <button class="id"><h3>đăng nhập</h3></button>
+            <button class="id"><h3>đăng kí</h3></button>
+        </div>
+        <div class="thaotac">
+            <button><h3>PHIM</h3></button>
+            <button><h3>LỊCH CHIẾU</h3></button>
+            <button><h3>SỰ KIỆN VÀ ƯU ĐÃI</h3></button>
+            <button><h3>ĐẶT VÉ NGAY</h3></button>
+        </div>
+        <h1 id="seclectionflim">=======SELECTION FLIM=======</h1>
+        <div class="phim">
+            <ul>
+                <img src="1234.jpeg" alt="" class="img">
+            </ul><ul>
+                <img src="1234.jpeg" alt="" class="img">
+            </ul><ul>
+                <img src="1234.jpeg" alt="" class="img">
+            </ul><ul>
+                <img src="1234.jpeg" alt="" class="img">
+            </ul><ul>
+                <img src="1234.jpeg" alt="" class="img">
+            </ul><ul>
+                <img src="1234.jpeg" alt="" class="img">
+            </ul><ul>
+                <img src="1234.jpeg" alt="" class="img">
+            </ul><ul>
+                <img src="1234.jpeg" alt="" class="img">
+            </ul><ul>
+                <img src="1234.jpeg" alt="" class="img">
+            </ul><ul>
+                <img src="1234.jpeg" alt="" class="img">
+            </ul>
+        </div>
+        <h1 id="seclectionflim">=======SỰ KIỆN KHUYẾN MÃI=======</h1>
+        <div class="phim">
+            <ul>
+                <img src="logo.png" alt="">
+            </ul><ul>
+                <img src="logo.png" alt="">
+            </ul><ul>
+                <img src="logo.png" alt="">
+            </ul><ul>
+                <img src="logo.png" alt="">
+            </ul>
+        </div>
+        <div class="thongtinthem">
+            <ul>
+                <h2>thông tin liên hệ</h2>
+                <li>Facebook</li>
+                <li>instagram</li>
+                <li>youtube</li>
+                <li>zalo</li>
+            </ul>
+            <ul>
+                <h2>chăm sóc khách hàng</h2>
+                <li>hotline:</li>
+                <li>giờ làm việc:</li>
+                <li>email:</li>
+            </ul>
+            <ul>
+                <h2>Khác</h2>
+                <li>địa chỉ:</li>
+                <li>hotline:</li>
+                <li>Tên công ty:</li>
+            </ul>
+        </div>
+        
+    </head>
+</html>
